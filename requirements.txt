@@ -2,3 +2,8 @@ azure-mgmt-storage
 azure-mgmt-resource>=18.0.0
 azure-identity>=1.5.0
 azure-storage-blob
+azure-mgmt-resource
+azure-mgmt-rdbms
+pymysql
+mysql-connector
+mysql-connector-python
